@@ -1,0 +1,277 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    
+    h1{
+        font-size: 2rem;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+    
+    .site-header{
+    background-image: url(images/dbz.jpg);
+    background-size: cover;
+    background-position: center center;
+    color: rgb(0, 0, 0);
+    height: 60rem;
+    
+    }
+    
+    
+    .logo{
+    width: 10%;
+    border-radius: 50%;
+    
+    }
+    .logo:hover{
+        transform: scale(1.4);
+    
+    }
+    
+    .content-header{
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    
+    
+    
+    nav{
+    padding:1.5 rem;
+    border-radius: .5rem;
+    
+    float: right;
+    }
+    nav a{
+    font-size: 2rem;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: .3rem;
+    
+    }
+    nav a:hover{
+    color:rgb(238, 250, 11);
+    
+    }
+    
+    .main-header{
+    display: flex;
+    height: 90%;
+    justify-content: space-between;
+    flex-direction: column;
+    padding:2rem;
+    
+    }
+    
+    h1{
+    font-size: 50px;    
+    padding-top:3%; 
+    color: black;
+    }
+    
+    .section-location{
+    display: flex;
+    justify-content: space-between; 
+    padding: .5rem;
+    }
+    
+    .img-loc{
+    width: 80%;
+    border: 1px solid rgb(12, 12, 12);
+    border-radius: .5rem;
+    padding: .5rem;
+    }
+    
+    .text-location{
+    font-size: 10px;
+    font-family: 'Roboto Mono', monospace;
+    padding-right: 20%;
+    color:rgb(191, 67, 67);
+    }
+    
+    
+    h3{
+        color: rgb(0, 0, 0);
+        font-size: 3.5rem;
+    }
+    
+    .container{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+    .news{
+    
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        margin: 1rem;
+    }
+    
+    .square{
+        flex-basis: calc(33% - 1rem);
+        padding:1rem;
+    }
+    
+    .news-img{
+        width: 20rem;
+        margin: 0px;
+    }
+    
+    .news-img:hover{
+        transform:scale(1.1);
+        border-bottom: 5px solid #0c0c0c;
+    }
+    
+    h4{
+        text-transform: uppercase;
+        color:rgb(0, 0, 0);
+        font-size:1rem;
+    }
+     h5{
+        text-transform: none;
+        font-size: 1.3rem;
+    }
+    
+    h6{
+        background: rgb(4, 4, 4);
+        color:black;
+        font-size: 1.2rem;
+        padding: 1rem;
+        width: 5rem;
+    }
+    
+    h6:hover{
+        transform: scale(1.1);
+    
+    }
+    
+    
+    .square-text{
+        text-align: center;
+    }
+    
+    .button-news{
+        text-align:center;
+        margin-left:auto;
+        display:flex;
+        justify-content: center;
+    
+    }
+    
+    .map{
+    
+    height: 40%;
+    width: 40%;
+    opacity: .6;
+    padding-right:60%;
+    }
+    
+    
+    .rounded{
+        height: 500px;
+        width: 500px;
+       
+        border-radius: 5%;
+        border-style: solid;
+    
+    
+    }
+    
+    .mw-100{
+    width: 1730.5px;
+    height: 500px;
+    
+    
+    }
+    .p-3{
+    
+    border-radius: 5%;
+    
+    
+    
+    }
+    
+    .vid1{
+    
+    width: 30%;
+    padding-bottom:3.5%; 
+    }
+    
+    .table1{
+    width: 3%;
+    height:4%;
+    }
+    .form-row{
+     width: 50%;
+     padding-left: 1%;    
+    }
+    
+    .form-group{
+        width: 50%;
+        padding-left: 1%; 
+    
+    }
+    
+    .form-row{
+        width: 50%;
+        padding-left: 1%;
+    
+    }
+    
+    .form-group2{
+        
+        width: 7%;
+    
+    }
+    
+        
+    .box1{
+    height: 50px;
+    width: 1000px; 
+    }
+    
+    .box2{
+    
+        height: 25px;
+        width: 30px;   
+    }
+    
+    
+    .home1{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    text-underline-position:auto;
+    font-size: 2rem;
+    }
+    
+    .home1:hover{
+     
+        text-decoration: none;
+    }
+    
+
+    .v3{
+
+        padding-top:20%; 
+    }
+
+    .dball{
+ 
+       width: 200%; 
+    }
+
+
+    .pdf-div{
+        width: 100rem;
+        height: 70rem;
+        border: 1px solid black;
+        margin:0 auto;
+        background: white;
+
+    }
+
